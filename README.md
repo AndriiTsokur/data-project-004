@@ -12,4 +12,4 @@ The goal of the analysis is to determine a few indicators of heavy traffic on I-
 - Matplotlib
 - Jupyter Notebook
 
-The step-by-step milestones and final result are shown [here](https://github.com/AndriiTsokur/data-project-003/blob/main/exploring_ebay_car_sales_data.ipynb)
+The step-by-step milestones and final result are shown [here](https://nbviewer.org/github/AndriiTsokur/data-project-004/blob/main/finding_heavy_traffic_indicators_on_i94.ipynb)
